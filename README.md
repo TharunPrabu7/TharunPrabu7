@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tharun prabu Rathakrishnan
-- 👀 I’m interested in business analysis
+- 👀 I’m interested in improving myself
 - 🌱 I’m currently learning the key skills and software that are needed for a business analyst
-- 💞️ I’m looking to collaborate with an experienced team
+- 💞️ I’m looking to collaborate with an experienced team and getting my own mentor
 - 📫 You can reach me on tharunprabu2418@gmail.com
 
 <!---

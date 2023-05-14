@@ -1,4 +1,4 @@
-Finished my bachelors on Electrical and Electronics Engineering. Found my interests on Data science.
+I finished my bachelor's in Electrical and Electronics Engineering but found my interest in Data science.
 
 <!---
 TharunPrabu7/TharunPrabu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
